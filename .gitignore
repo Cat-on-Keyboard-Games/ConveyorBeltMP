@@ -1,0 +1,10 @@
+Config
+DerivedDataCache
+Intermediate
+Saved
+*.uproject
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/Characters
+Content/LevelPrototyping
+Content/ThirdPerson
